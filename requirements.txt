@@ -1,0 +1,2 @@
+# Runtime dependencies intentionally left empty.
+# This demo app uses only the Python standard library to reduce supply-chain risk.
